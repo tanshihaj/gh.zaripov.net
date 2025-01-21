@@ -1,1 +1,1 @@
-# gh.zaripov.net
+# github-pages-original
